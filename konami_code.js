@@ -20,7 +20,7 @@ function codeTester(e){
 
 var codeFollower = 0;
 
-//init()
+init()
 
 function init() {
   
